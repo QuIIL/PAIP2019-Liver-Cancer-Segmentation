@@ -10,3 +10,6 @@
 <h3>segmentation</h3> : This file is for training segmentation model
 
 <h3>test_result</h3> : This file is test result after removing samll componenets by using connected components
+<p align="center">
+  <img src="test_result/170_remove.png" width="350" title="hover text">
+</p>
